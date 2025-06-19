@@ -28,7 +28,7 @@ The planet rotates with lighting and shadows — perfect for creating an aesthet
 
 1️⃣ Install the required dependencies.  
 2️⃣ Copy all the 3D model files into /public/planet/.  
-3️⃣ Create EarthCanvas.jsx or EarthCanvas.jsx component.  
+3️⃣ Create EarthCanvas.jsx or EarthCanvas.tsx component.  
 4️⃣ Import the component into your page.  
 5️⃣ Enjoy the Vibe !!
 
