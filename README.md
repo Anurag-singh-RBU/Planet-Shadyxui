@@ -1,4 +1,4 @@
-# 🌍 Planet Component @ShadyxUi
+# 🌍 Planet Component
 
 This is a **3D Planet Component** created using React Three Fiber and Drei, with a GLTF model designed on Sketchfab.  
 The planet rotates with lighting and shadows — perfect for creating an aesthetic hero section or 3D interactive background !
